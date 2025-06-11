@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import "tailwindcss";
 
 html,
@@ -129,3 +130,6 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+=======
+@import "tailwindcss";
+>>>>>>> 11e0344 (update project to use Tailwind CSS and change title to "RiotGames")
